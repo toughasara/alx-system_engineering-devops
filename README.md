@@ -1,3 +1,1 @@
-#!/bin/bash
-whoami
-
+shell basics
